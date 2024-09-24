@@ -1,8 +1,8 @@
 ---
-title: "Transmission of social bias through observational learning"
+title: "Transmission of societal stereotypes to individual-level prejudices through instrumental learning"
 authors:
 - admin
-date: "2024-07-01T00:00:00Z"
+date: "2024-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,27 +17,27 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: People often rely on social learning—learning by observing others’ actions and outcomes—to form preferences in advance of their own direct experiences. Although typically adaptive, we investigated whether social learning may also contribute to the formation andspread of prejudice. In six experiments (n = 1550), we demonstrate that by merely observing interactions between a prejudiced actor and social group members, observers acquired the prejudices of the actor. Moreover, observers were unaware of the actors’ bias,misattributing their acquired group preferences to the behavior of group members, despite identical behavior between groups. Computational modeling revealed this effect was due to value shaping, whereby one’s preferences are shaped by another’s’ actions toward a target, in addition to the target’s reward feedback. These findings identify social learning as a potent mechanism of prejudice formation that operates implicitly and supports the transmission of intergroup bias.
+abstract: How are societal stereotypes transmitted to individual-level group preferences? We propose that exposure to a stereotype, regardless of whether one agrees with it, can shape how one experiences and learns from interactions with members of the stereotyped group, suchthat it induces individual-level prejudice—a process involving the interplay of semantic knowledge and instrumental learning. In a series of experiments, participants interacted with players from two groups, described with either positive or negative stereotypes, in a reinforcement learning task presented as a money sharing game. Although players’ actual sharing rates were equated between groups, participants formed more positive reward associations with players from positively-stereotyped than negatively-stereotyped groups. This effect persisted even when stereotypes were described as unreliable and participants were instructed to ignore them. Computational modeling revealed that this preference was due to stereotype effects on priors regarding group members’ behavior as well as the learning rates through which reward associations were updated in response to player feedback. We then show that these stereotype-induced preferences, once formed, spread unwittingly to others who observe these interactions, illustrating a pathway through which stereotypes may be transmitted and propagated between society and individuals. By identifying a mechanism through which stereotype knowledge can bypass explicit beliefs to induce prejudice, via the interplay of semantic and instrumental learning processes, these findings illuminate the impact of stereotype messages on the formation and propagation of individual-level prejudice.
 
 # Summary. An optional shortened abstract.
-summary: David T. Schultner, Björn R. Lindström, Mina Cikara, and David M. Amodio
+summary: D. T. Schultner & B.S. Stillerman, B. R. Lindström, L. M. Hackel, D. R. Hagen, N. B. Jostmann, & D. M. Amodio
 
 tags:
-- Science Advances
+- PsyArxiv
 
 featured: true
 
 links:
 - name: Custom Link
-  url: https://www.science.org/doi/10.1126/sciadv.adk2030
-url_pdf: https://www.science.org/doi/10.1126/sciadv.adk2030
-url_code: https://www.science.org/doi/10.1126/sciadv.adk2030
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+  url: https://osf.io/preprints/psyarxiv/mwztc
+url_pdf: https://osf.io/preprints/psyarxiv/mwztc
+url_code: https://osf.io/preprints/psyarxiv/mwztc
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
