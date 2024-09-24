@@ -33,10 +33,16 @@ profiles:
   - icon: at-symbol
     url: 'dtschultner@gmail.com'
     label: E-mail Me
+     - icon: ki.png
+    url: 'https://ki.se/en/people/david-schultner'
   - icon: brands/x
     url: https://x.com/DSchultner
   - icon: academicons/google-scholar
     url: https://scholar.google.de/citations?user=OFxq1HIAAAAJ&hl=en
+
+
+
+
 
 #interests:
 #  - Artificial Intelligence

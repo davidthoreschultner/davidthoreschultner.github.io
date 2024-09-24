@@ -32,12 +32,12 @@ links:
   url: https://www.science.org/doi/10.1126/sciadv.adk2030
 url_pdf: https://www.science.org/doi/10.1126/sciadv.adk2030
 url_code: https://www.science.org/doi/10.1126/sciadv.adk2030
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
