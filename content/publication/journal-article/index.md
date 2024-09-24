@@ -2,7 +2,7 @@
 title: "Transmission of social bias through observational learning"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2024-01-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,10 +20,10 @@ publication_short: ""
 abstract: People often rely on social learning—learning by observing others’ actions and outcomes—to form preferences in advance of their own direct experiences. Although typically adaptive, we investigated whether social learning may also contribute to the formation andspread of prejudice. In six experiments (n = 1550), we demonstrate that by merely observing interactions between a prejudiced actor and social group members, observers acquired the prejudices of the actor. Moreover, observers were unaware of the actors’ bias,misattributing their acquired group preferences to the behavior of group members, despite identical behavior between groups. Computational modeling revealed this effect was due to value shaping, whereby one’s preferences are shaped by another’s’ actions toward a target, in addition to the target’s reward feedback. These findings identify social learning as a potent mechanism of prejudice formation that operates implicitly and supports the transmission of intergroup bias.
 
 # Summary. An optional shortened abstract.
-summary: People often rely on social learning—learning by observing others’ actions and outcomes—to form preferences in advance of their own direct experiences. Although typically adaptive, we investigated whether social learning may also contribute to the formation andspread of prejudice. In six experiments (n = 1550), we demonstrate that by merely observing interactions between a prejudiced actor and social group members, observers acquired the prejudices of the actor. Moreover, observers were unaware of the actors’ bias,misattributing their acquired group preferences to the behavior of group members, despite identical behavior between groups. Computational modeling revealed this effect was due to value shaping, whereby one’s preferences are shaped by another’s’ actions toward a target, in addition to the target’s reward feedback. These findings identify social learning as a potent mechanism of prejudice formation that operates implicitly and supports the transmission of intergroup bias.
+summary: David T. Schultner, Björn R. Lindström, Mina Cikara, and David M. Amodio
 
 tags:
-- Science Advances (2024)
+- Science Advances
 
 featured: true
 
