@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Transmission of social bias through observational learning"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -17,21 +17,21 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: People often rely on social learning—learning by observing others’ actions and outcomes—to form preferences in advance of their own direct experiences. Although typically adaptive, we investigated whether social learning may also contribute to the formation andspread of prejudice. In six experiments (n = 1550), we demonstrate that by merely observing interactions between a prejudiced actor and social group members, observers acquired the prejudices of the actor. Moreover, observers were unaware of the actors’ bias,misattributing their acquired group preferences to the behavior of group members, despite identical behavior between groups. Computational modeling revealed this effect was due to value shaping, whereby one’s preferences are shaped by another’s’ actions toward a target, in addition to the target’s reward feedback. These findings identify social learning as a potent mechanism of prejudice formation that operates implicitly and supports the transmission of intergroup bias.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- Science Advances (2024)
 
 featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+  url: https://www.science.org/doi/10.1126/sciadv.adk2030
+url_pdf: https://www.science.org/doi/10.1126/sciadv.adk2030
+url_code: https://www.science.org/doi/10.1126/sciadv.adk2030
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
