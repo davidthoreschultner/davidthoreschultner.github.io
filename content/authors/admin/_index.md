@@ -22,6 +22,7 @@ highlight_name: true
 # Role/position/tagline
 role: Postdoctoral researcher
 
+
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Karolinska Institute
