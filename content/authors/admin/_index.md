@@ -34,7 +34,7 @@ profiles:
   - icon: at-symbol
     url: 'dtschultner@gmail.com'
     label: E-mail Me
-     - icon: custom/ki
+  - icon: custom/ki
     url: 'https://ki.se/en/people/david-schultner'
   - icon: brands/x
     url: https://x.com/DSchultner
