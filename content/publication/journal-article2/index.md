@@ -23,15 +23,15 @@ abstract: How are societal stereotypes transmitted to individual-level group pre
 summary: D. T. Schultner & B.S. Stillerman, B. R. Lindström, L. M. Hackel, D. R. Hagen, N. B. Jostmann, & D. M. Amodio
 
 tags:
-- PsyArxiv
+- Proceedings of the National Academy of Sciences (PNAS)
 
 featured: true
 
 links:
 - name: Custom Link
-  url: https://osf.io/preprints/psyarxiv/mwztc
-url_pdf: https://osf.io/preprints/psyarxiv/mwztc
-url_code: https://osf.io/preprints/psyarxiv/mwztc
+  url: https://www.pnas.org/doi/10.1073/pnas.2414518121
+url_pdf: https://www.pnas.org/doi/10.1073/pnas.2414518121
+url_code: https://www.pnas.org/doi/10.1073/pnas.2414518121
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
